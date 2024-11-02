@@ -582,7 +582,7 @@ Always ensure thorough testing and validation before deploying it in a productio
 
 ---
 
-# Disclaimer
+# DISCLAIMER
 
 This script is provided by the data-gathering team for educational purposes only. It is intended to serve as a foundational example of implementing data validation and security measures for Large Language Model (LLM) applications. **We make no guarantees regarding the accuracy, completeness, or suitability of this script for your specific use case or environment.**
 
