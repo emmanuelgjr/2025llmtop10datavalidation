@@ -1,8 +1,9 @@
 # Advanced Data Validation & Security Script for LLM Applications - Based on OWASP Top 10 for LLM Apps 2025 List
 
-This comprehensive guide presents an enhanced Python script designed to address the [**OWASP LLM Top 10 for LLM Applications 2025**](https://genai.owasp.org/) vulnerabilities (LLM01–LLM10) by incorporating advanced security measures, data validation techniques, and compliance features. 
+[**OWASP LLM Top 10 for LLM Applications 2025**](https://genai.owasp.org/)
+This comprehensive guide introduces an advanced Python script developed to address the **OWASP LLM Top 10 for LLM Applications 2025** vulnerabilities (LLM01–LLM10). By incorporating enhanced security measures, rigorous data validation techniques, and essential compliance features, this script is designed to help protect large language model (LLM) applications from evolving threats.
 
-The script integrates multiple cybersecurity frameworks to ensure robust protection for large language model (LLM) applications.
+Developed by the [**Data-Gathering Methodology Team**](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Data-Gathering-Methodology), the script integrates multiple cybersecurity frameworks to ensure robust, industry-standard protection for LLM applications in diverse environments.
 
 ---
 
